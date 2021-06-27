@@ -1,7 +1,7 @@
 # Wick-Hunter
 Welcome to Wick Hunter! We are glad to have you here for this beta phase of our Binance Futures Bot. As a brief overview, Wick Hunter can be traded on any alt on Binance Futures. The goal of the bot is to use Liquidation Data and VWAP to countertrade the "wicks" of candles. We have throughly tested this strategy and the results have been fantastic! 
 
-Binance Referral Link (must be used for Beta): https://www.binance.com/en/register?ref=F6TZOYRT
+Binance Referral Link (must be used for Beta): https://www.binance.com/en/register?ref=I5SSIA6B
 VPS Strongly Recommended: https://www.vultr.com/?ref=8753843-6G
 
 Settings Overview:
